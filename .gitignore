@@ -1,6 +1,7 @@
 # Виртуальное окружение
 env/
 venv/
+.env
 *.env
 *.pyenv
 
@@ -22,3 +23,5 @@ __pycache__/
 Thumbs.db  # Windows
 .DS_Store  # macOS
 tmp_data.txt
+f_proj/
+
